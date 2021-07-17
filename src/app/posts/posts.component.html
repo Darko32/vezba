@@ -1,0 +1,6 @@
+<p>posts works!</p>
+
+<form #addDescriptionForm = "ngForm" (submit)="addDescription(addDescriptionForm)">
+    <input type="text"  [(ngModel)] = "description" name="description"/>
+    <button type="submit">Add Post</button>
+</form>

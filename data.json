@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "description": "Hello Martina",
+      "id": 1
+    },
+    {
+      "description": "ABC Tutorial",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Darko",
+      "lastName": "Milisavov"
+    }
+  ]
+}
